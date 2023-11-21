@@ -32,3 +32,6 @@ ans:Q8.js
 
 Q9. What will the output of below code.
 ans:Q9.js
+
+Q10. What will the output of below code.
+ans:Q10.js
