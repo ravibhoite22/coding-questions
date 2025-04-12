@@ -23,3 +23,14 @@ var greetFn = person.greet;
 console.log(greetFn());
 
 console.log(person.greet());
+
+/** Q2 */
+
+let count = 0; 
+// IIFE
+(function() { 
+ count++; 
+ console.log(count); }
+)(); 
+ 
+console.log(count);
